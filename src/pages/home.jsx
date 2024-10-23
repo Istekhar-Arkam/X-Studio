@@ -39,7 +39,7 @@ const Home = () => {
         </div>
       </div>
 
-      <div className="h-auto max-w-5xl p-3 mx-10 mt-3 border-2 rounded rounded-lg">
+      <div className="h-auto max-w-5xl p-3 mx-10 mt-3 border-2 rounded-lg">
        <h1 className="mb-1 font-medium text-blue-500 capitalize text-md mx-11">enter record name label and format</h1>
        <p className="text-sm mx-11">The Record Name appears in page layouts, key lists, related lists, lookups, and search results. For example, the Record Name for Account is "Account Name" and for Case it is "Case Number". Note that the Record Name field is always called "Name" when referenced via the API.</p> 
        <div className="flex gap-5 mt-3 mx-11">
