@@ -7,7 +7,7 @@ const InputCard = () => {
       <div className="h-auto p-3 border-2 rounded max-w-fit">
         <div className="flex justify-between ">
           <h1>label</h1>
-          <img src={info} alt="info-icon" className="h-5 bg-blue-500" />
+          <img src={info} alt="info-icon" className="h-4" />
         </div>
         <input
           type="text"

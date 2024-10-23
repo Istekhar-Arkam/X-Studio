@@ -1,7 +1,8 @@
 import React from "react";
 import { RiMenu2Line } from "react-icons/ri";
 import { IoAddOutline } from "react-icons/io5";
-import PageOne from "./pageOne";
+import Home from "../pages/home";
+
 
 const SecondNavbar = () => {
   return (
@@ -21,7 +22,7 @@ const SecondNavbar = () => {
           <IoAddOutline />
         </div>
       </div>
-      <PageOne />
+     <Home/>
     </>
   );
 };
